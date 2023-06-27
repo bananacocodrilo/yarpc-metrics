@@ -3,7 +3,7 @@
 Fast, Prometheus- and Graphite-compatible metrics.
 
 ## Work in Progress
-
+[Fixing travis]
 [doc-img]: https://godoc.org/go.uber.org/net/metrics?status.svg
 [doc]: https://godoc.org/go.uber.org/net/metrics
 [ci-img]: https://travis-ci.com/yarpc/metrics.svg?branch=master
